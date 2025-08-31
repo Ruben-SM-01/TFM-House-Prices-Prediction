@@ -1,0 +1,41 @@
+[
+  {
+    "feature": "Neighborhood",
+    "categories_plotted": [
+      "CollgCr",
+      "Edwards",
+      "NAmes",
+      "NWAmes",
+      "NridgHt",
+      "OldTown",
+      "Sawyer",
+      "Somerst"
+    ],
+    "pdp_mean_usd_min": 169393.92819671758,
+    "pdp_mean_usd_max": 190273.34394910547
+  },
+  {
+    "feature": "OverallQual",
+    "grid_lo": 4.0,
+    "grid_hi": 8.0,
+    "pdp_lo_usd": 167899.4320611414,
+    "pdp_hi_usd": 189561.37952924965,
+    "approx_relative_change": 0.12901739572424498
+  },
+  {
+    "feature": "TotalBsmtSF",
+    "grid_lo": 535.1,
+    "grid_hi": 1730.0999999999997,
+    "pdp_lo_usd": 169310.45317741358,
+    "pdp_hi_usd": 191267.2758055787,
+    "approx_relative_change": 0.12968379811232011
+  },
+  {
+    "feature": "1stFlrSF",
+    "grid_lo": 688.25,
+    "grid_hi": 1827.4999999999998,
+    "pdp_lo_usd": 170097.05203470064,
+    "pdp_hi_usd": 192089.0148122326,
+    "approx_relative_change": 0.12929067561409294
+  }
+]

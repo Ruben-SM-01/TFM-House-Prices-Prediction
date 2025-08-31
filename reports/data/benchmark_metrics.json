@@ -1,0 +1,9 @@
+{
+  "rmse_log": {
+    "Ridge": 0.14033298123204183,
+    "ElasticNet": 0.1398588397876752,
+    "RandomForest": 0.13501722367329907,
+    "ExtraTrees": 0.1330248229915454
+  },
+  "best_model_name": "ExtraTrees"
+}
