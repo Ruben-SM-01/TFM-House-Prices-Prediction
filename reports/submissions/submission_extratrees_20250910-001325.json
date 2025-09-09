@@ -1,0 +1,8 @@
+{
+  "model_path": "../models\\best_model.joblib",
+  "test_path": "../data/raw\\test.csv",
+  "rows": 1459,
+  "smear_factor": 1.0000000000000038,
+  "smear_source": "train_in_sample",
+  "created_at": "20250910-001325"
+}
