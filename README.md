@@ -8,9 +8,8 @@ Incluye un entorno de Conda reproducible con todas las librerías necesarias par
 ## Requisitos
 
 - **Anaconda** o **Miniconda** (Windows 10/11).
-- (Opcional) **mamba** para instalaciones más rápidas.
 
-Instalar mamba (opcional):
+Instalar mamba:
 
     conda install -n base -c conda-forge -y mamba
 
@@ -45,7 +44,3 @@ Instalar mamba (opcional):
 6.  **Iniciar Jupyter Notebook:**
 
     jupyter notebook
-
-
-NOTA: Si mamba no esta instalado, realizar: 
-conda install -n base -c conda-forge -y mamba
